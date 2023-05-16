@@ -18,3 +18,24 @@
 
 #streaming img {
 }
+#chromakey{
+    background-color: #5C9FC0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+#chromakey h2{
+    color: #005780;
+    margin-top: 20px;
+    Weight: 400px;
+    size: 40px;
+    line-height: 70px;
+}
+#chromakey p{
+    margin-right: 100px;
+    color: #70706E;
+    font-style: normal ;
+    Weight: 400;
+    size: 14px;
+    line-height: 24px;
+}
