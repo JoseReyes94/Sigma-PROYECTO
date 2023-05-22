@@ -5,13 +5,14 @@
 }
 
 #streaming h2 {
+    margin-left: 160px;
     margin-top: 60px;
     color: #005780;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     position: relative;
     right: 165px;
     font-size: 40px;
-    
+
 }
 
 
@@ -20,10 +21,12 @@
     color: #70706E;
 }
 
-#streaming img {}
+#streaming img {
+    width: 100%;
+}
 
 #chromakey {
-    background-color: #5C9FC0;
+    background: #4fb6eef8;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -48,7 +51,7 @@
     line-height: 24px;
 }
 
-h2 {
+#chromakey h2 {
     text-align: center;
 }
 
@@ -72,4 +75,18 @@ h2 {
 #RNV p {
     font-size: 17px;
     color: #FFFFFF;
+}
+
+#cuadros {
+    background-color: #39db54;
+}
+
+#cuadros h2 {
+    padding-top: 20px;
+    text-align: center;
+}
+
+#cuadros img {
+    background-color: #005780;
+    padding: 50px;
 }
