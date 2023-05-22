@@ -5,6 +5,7 @@
 }
 
 #streaming h2 {
+<<<<<<< HEAD
     margin-left: 160px;
     margin-top: 60px;
     color: #005780;
@@ -13,59 +14,75 @@
     right: 165px;
     font-size: 40px;
 
+=======
+    margin-top: 80px;
+    color: #005780;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 43px;
+>>>>>>> c992247d513ad14dc93354dc6169d719a7727021
 }
-
 
 #streaming p {
     margin-top: 20px;
     color: #70706E;
 }
 
+<<<<<<< HEAD
 #streaming img {
     width: 100%;
 }
 
 #chromakey {
     background: #4fb6eef8;
+=======
+#chromakey{
+    background-color:#e5f4ff ;
+>>>>>>> c992247d513ad14dc93354dc6169d719a7727021
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-#chromakey h2 {
+#chromakey h2{
     color: #005780;
     margin-top: 20px;
     Weight: 400px;
-    size: 40px;
-    line-height: 70px;
-    position: relative;
-    right: 200px;
     font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 70px;
 }
 
-#chromakey p {
+#chromakey p{
     margin-right: 100px;
     color: #70706E;
-    font-style: normal;
+    font-style: normal ;
     Weight: 400;
     size: 14px;
     line-height: 24px;
 }
 
+<<<<<<< HEAD
 #chromakey h2 {
     text-align: center;
+=======
+#rnv {
+    background-color: #0DAEDB;
+    padding-top: 60px;
+    padding-bottom: 60px; 
+>>>>>>> c992247d513ad14dc93354dc6169d719a7727021
 }
 
-#RNV {
-    background: linear-gradient(214.85deg, #0DAEDB 11.2%, #037FA2 79.48%);
-}
-
-#RNV h2 {
-    font-size: 45px;
+#rnv h2{
+    text-align:center;
+    color:white;
+    margin-top: 20px;
+    margin-bottom: 49px;
+    font-style: normal;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 24px;
     color: #FFFFFF;
-    padding-top: 50px;
-    padding-bottom: 40px;
-    font-family: 'Times New Roman', Times, serif;
 }
+<<<<<<< HEAD
 
 #RNV img {
     width: 100%;
@@ -90,3 +107,8 @@
     background-color: #005780;
     padding: 50px;
 }
+=======
+#rnv p{
+    color:white
+}
+>>>>>>> c992247d513ad14dc93354dc6169d719a7727021
