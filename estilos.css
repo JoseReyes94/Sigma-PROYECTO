@@ -5,7 +5,6 @@
 }
 
 #streaming h2 {
-<<<<<<< HEAD
     margin-left: 160px;
     margin-top: 60px;
     color: #005780;
@@ -14,12 +13,6 @@
     right: 165px;
     font-size: 40px;
 
-=======
-    margin-top: 80px;
-    color: #005780;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 43px;
->>>>>>> c992247d513ad14dc93354dc6169d719a7727021
 }
 
 #streaming p {
@@ -27,17 +20,12 @@
     color: #70706E;
 }
 
-<<<<<<< HEAD
 #streaming img {
     width: 100%;
 }
 
-#chromakey {
-    background: #4fb6eef8;
-=======
 #chromakey{
     background-color:#e5f4ff ;
->>>>>>> c992247d513ad14dc93354dc6169d719a7727021
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -60,15 +48,10 @@
     line-height: 24px;
 }
 
-<<<<<<< HEAD
-#chromakey h2 {
-    text-align: center;
-=======
 #rnv {
     background-color: #0DAEDB;
     padding-top: 60px;
     padding-bottom: 60px; 
->>>>>>> c992247d513ad14dc93354dc6169d719a7727021
 }
 
 #rnv h2{
@@ -82,7 +65,6 @@
     line-height: 24px;
     color: #FFFFFF;
 }
-<<<<<<< HEAD
 
 #RNV img {
     width: 100%;
@@ -107,8 +89,6 @@
     background-color: #005780;
     padding: 50px;
 }
-=======
 #rnv p{
     color:white
 }
->>>>>>> c992247d513ad14dc93354dc6169d719a7727021
