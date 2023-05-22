@@ -77,18 +77,26 @@
 }
 
 #cuadros {
-    background-color: #39db54;
+    background-color: #FFFFFF;
 }
 
 #cuadros h2 {
-    padding-top: 20px;
+    padding-top: 60px;
+    padding-bottom: 40px;
     text-align: center;
+    color:#005780
 }
 
 #cuadros img {
     background-color: #005780;
     padding: 50px;
 }
-#rnv p{
-    color:white
+
+.boton{
+    background-color: #E99F09;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
 }
